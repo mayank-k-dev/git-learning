@@ -1,4 +1,4 @@
 # git-learning
-First Github Repo
+First Github Repository
 <br>
 Mayank Mishra
